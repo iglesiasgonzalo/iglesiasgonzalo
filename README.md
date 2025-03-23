@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gonzalo Iglesias
-- 👀 
-- 🌱
+
+
 
 
 <!---
