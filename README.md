@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gonzalo Iglesias
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 👀 
+- 🌱
 
 
 <!---
